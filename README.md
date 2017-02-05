@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # go-getting-started
 
@@ -37,3 +38,6 @@ or
 For more information about using Go on Heroku, see these Dev Center articles:
 
 - [Go on Heroku](https://devcenter.heroku.com/categories/go)
+=======
+# truthof
+>>>>>>> 69ef188b95748e45844c60d77a3a62aa81d18dde
