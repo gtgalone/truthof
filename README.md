@@ -278,7 +278,7 @@
 #### 매개변수
 <table>
   <col>
-  <col width="150">
+  <col width="100">
   <col>
   <col>
 	<thead>
