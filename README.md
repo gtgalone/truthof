@@ -93,10 +93,9 @@
   }
 ]
 ```
-
+<a href="#-">맨 위로</a>
 ---
 <a id="deals_households"></a>
-<a href="#-" style="float:right">맨 위로</a>
 ### 전유부 매매사례 검색
 
 #### HTTP 요청
@@ -174,9 +173,9 @@
   }
 ]
 ```
+<a href="#-">맨 위로</a>
 ---
 <a id="deals_buildings"></a>
-<a href="#-" style="float:right">맨 위로</a>
 ### 건축물 매매사례 검색
 
 #### HTTP 요청
@@ -266,9 +265,9 @@
   },
 ]
 ```
+<a href="#-">맨 위로</a>
 ---
 <a id="populations"></a>
-<a href="#-" style="float:right">맨 위로</a>
 ### 시도, 시군구, 읍면동 인구 검색
 
 #### HTTP 요청
@@ -350,5 +349,5 @@
     }
 ]
 ```
-
+<a href="#-">맨 위로</a>
 ---
