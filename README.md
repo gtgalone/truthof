@@ -278,9 +278,9 @@
 #### 매개변수
 <table>
   <col>
-  <col width="100">
   <col>
   <col>
+  <col width="200">
 	<thead>
     <tr>
       <th>매개변수 이름</th>
