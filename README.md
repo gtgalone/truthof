@@ -5,7 +5,7 @@
 * <a href="#deals_buildings">건축물 매매사례 검색</a>
 * <a href="#populations">시도, 시군구, 읍면동 인구 검색</a>
 ---
-<a id="details" />
+<a id="details"></a>
 ### 필지 및 건축물 정보 검색
 
 
