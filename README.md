@@ -7,7 +7,6 @@
 * <a href="#populations">시도, 시군구, 읍면동 인구 검색</a>
 ---
 <a id="details"></a>
-<a href="#-" style="float:right">맨 위로</a>
 ### 필지 및 건축물 정보 검색
 
 
@@ -94,6 +93,7 @@
 ]
 ```
 <a href="#-">맨 위로</a>
+
 ---
 <a id="deals_households"></a>
 ### 전유부 매매사례 검색
@@ -174,6 +174,7 @@
 ]
 ```
 <a href="#-">맨 위로</a>
+
 ---
 <a id="deals_buildings"></a>
 ### 건축물 매매사례 검색
@@ -266,6 +267,7 @@
 ]
 ```
 <a href="#-">맨 위로</a>
+
 ---
 <a id="populations"></a>
 ### 시도, 시군구, 읍면동 인구 검색
@@ -349,5 +351,6 @@
     }
 ]
 ```
-<a href="#-">맨 위로</a>
+<small><a href="#-">맨 위로</a></small>
+
 ---
